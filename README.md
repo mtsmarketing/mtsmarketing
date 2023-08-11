@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mtsmarketing
+- 👋 Hi, I’m @Muhammad Talha
 - 👀 I’m interested in Digital Marekting
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on https://www.mtsmarketingblog.com/
